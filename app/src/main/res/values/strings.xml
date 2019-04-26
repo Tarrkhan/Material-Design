@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Navigation Drawer</string>
+    <string name="my_image">my image</string>
+    <string name="ankit">Ankit</string>
+    <string name="amanverma2097_gmail_com">amanverma2097@gmail.com</string>
+    <string name="inbox">inbox</string>
+    <string name="stared">stared</string>
+    <string name="send">send</string>
+    <string name="draft">draft</string>
+    <string name="subheader">subheader</string>
+    <string name="allmail">allmail</string>
+    <string name="trash">trash</string>
+    <string name="spam">spam</string>
+    <string name="open_drawer">Open Navigation Drawer</string>
+    <string name="close_drawer">Close Navigation Drawer</string>
+</resources>
